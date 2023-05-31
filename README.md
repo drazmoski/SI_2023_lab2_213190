@@ -1,8 +1,8 @@
 # Damjan Razmoski 213190
- Control Flow Graph - https://i.imgur.com/9jkPalh.png
- Цикломатска комплексност - Со примена на формулата Е-N+2, каде Е е бројот на ребра 35 и N е бројот на јазли 26. Добиваме дека цикломатската комплексност е 11.
+ #Control Flow Graph - https://i.imgur.com/9jkPalh.png
+ #Цикломатска комплексност - Со примена на формулата Е-N+2, каде Е е бројот на ребра 35 и N е бројот на јазли 26. Добиваме дека цикломатската комплексност е 11.
 
-# Every branch
+#Every branch
 
 За тест (user=dame,damebarsa,dame@example.com и непразна листа)
 
